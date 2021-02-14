@@ -1,0 +1,5 @@
+app: "dotnetapi"
+image: "aksharpatel47/dotnet-api-ci-cd"
+tag: "latest"
+port: "80"
+nodePort: "30001"
