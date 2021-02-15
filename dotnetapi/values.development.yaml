@@ -1,5 +1,5 @@
 app: "dotnetapi"
 image: "aksharpatel47/dotnet-api-ci-cd"
-tag: "8"
+tag: "9"
 port: "80"
 nodePort: "30001"
